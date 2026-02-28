@@ -73,3 +73,12 @@
 ```bash
 git config --global user.name "你的用户名"
 git config --global user.email "你的邮箱"
+
+---
+
+### 2. 初始化仓库
+
+```bash
+mkdir my-first-repo
+cd my-first-repo
+git init
