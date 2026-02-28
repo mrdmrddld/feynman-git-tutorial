@@ -72,13 +72,13 @@
 git config --global user.name "你的用户名"
 git config --global user.email "你的邮箱"
 
-
+```bash
 
 
 ---
 
 
-## 👨‍💻 关于作者
+### 👨‍💻 关于作者
 
 **我是 mrdmrddld**，一个正在努力从 Git 新手进阶的开发者。
 
